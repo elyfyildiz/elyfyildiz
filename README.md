@@ -12,7 +12,7 @@
 
 
 [instagram]: https://www.instagram.com/elyfyl/
-[linkedin]: linkedin.com/in/elyfyildiz
+[linkedin]: https://www.linkedin.com/in/elyfyildiz/
 [gmail]: mailto:eeliff.yildizzz@gmail.com
 <br />
 
