@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elyfyildiz
-- 👀 I’m interested in avionics, embedded system, web development.
+- 👀 I’m interested in Avionics, Embedded Systems, Web Development.
 - 🌱 I’m currently learning C and MATLAB.
 - ### 📩 Connect with me:
 
